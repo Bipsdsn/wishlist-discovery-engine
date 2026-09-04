@@ -5,3 +5,5 @@ streamlit>=1.35
 # optional — enables LLM tagging mode:
 # anthropic>=0.34
 # openai>=1.30
+streamlit>=1.35
+pandas>=2.0
