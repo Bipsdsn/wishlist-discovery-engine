@@ -1,0 +1,11 @@
+theme,label,kpi_node,mentions,share_of_decision_journey,avg_severity,addressable_without_incentives,opportunity_score
+quality_doubt,Quality / Material Doubt,C - Decision progression,30,0.612,2.37,True,144.9
+size_fit_uncertainty,Size & Fit Uncertainty,C - Decision progression,7,0.143,2.36,True,33.67
+styling_occasion_doubt,Styling / Occasion / Will-it-suit-me Doubt,C - Decision progression,2,0.041,2.5,True,10.2
+image_reality_gap,Image vs Reality Gap,C - Decision progression,2,0.041,2.25,True,9.18
+price_value_anxiety,Price / Value Anxiety & Sale-Waiting,C - Decision progression,6,0.122,2.67,False,8.16
+stock_size_unavailability,Stock-out / Size Unavailability,A - Composition quality,1,0.02,3.0,True,6.12
+reengagement_gap,Forgetting / Re-engagement Gap,B - Return & re-engagement,1,0.02,2.0,True,4.08
+delivery_return_fear,Delivery / Return / Refund Fear,D - Transaction completion,79,0.0,2.53,False,0.0
+app_ux_friction,App / UX Friction (control theme),B - Return & re-engagement,2,0.0,2.0,True,0.0
+payment_checkout_friction,Payment / Checkout Friction,D - Transaction completion,1,0.0,2.0,False,0.0
